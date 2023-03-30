@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.class__h1 {
+  color: rgb(179, 33, 33);
+  text-align: center;
+}
+.navbar ul li {
+  display: inline-block;
+  margin: 5px;
+}
+.navbar {
+  text-align: center;
+  margin-top: 14px;
+}
+.h1__title {
+  color: blue;
+  text-align: center;
+  margin-top: 15px;
+}
+.p__text {
+  text-align: center;
+  padding: 20px;
+  font-size: 19px;
+}
+.p__text2 {
+  text-align: center;
+  padding: 12px;
+  color: rgb(171, 171, 11);
+  font-weight: bolder;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.class__ul {
+  text-align: center;
+  font-size: 18px;
+}
+/* urunlerimiz  */
+.div1 {
+  margin-top: 20px;
+  text-align: center;
+}
+.div1__img1 {
+  width: 300px;
+  height: 300px;
+}
+.div1__img1__text1 {
+  text-transform: capitalize;
+  font-size: 17px;
+}
+.div1__img1__p1 {
+  margin-right: 290px;
+}
+/* hakkimizda */
+.common {
+  padding: 20px;
+}
+.common__text {
+  font-size: 17px;
+}
+.common__title1 {
+  color: rgb(171, 171, 11);
+  margin-top: 25px;
+}
+.common__text1 {
+  margin-top: 25px;
+  font-size: 17px;
+}
+.common__title2 {
+  color: rgb(171, 171, 11);
+  margin-top: 25px;
+}
+.common__text2 {
+  margin-top: 25px;
+  font-size: 17px;
+}
